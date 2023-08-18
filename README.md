@@ -1,7 +1,7 @@
 # Voice-Transcription-Using-Whisper-API
 To access my code, you can follow the link given below :-
 **https://colab.research.google.com/drive/1zd9CkVUGmTZb7a1p2xePxkaV_Y7_fjsv?usp=sharing**
-<h2> NOTE : I have used Gradio.app instead of Next.js because I do not have any knowledge and experience in it.</h2>
+<h2> NOTE : I have used Gradio.app instead of Next.js because I do not have any knowledge and experience Next.js.</h2>
 I am definitely planning to learn Next.js in the upcoming weeks. This learning will undoubtedly benefit me in my future career.
 <h3>Important Libraries Used in the Project</h3>
 1. Whisper - Whisper is used for automatic speech recognition (ASR). It is an ASR system developed by OpenAI that converts spoken language into written text
