@@ -4,10 +4,10 @@ To access my code, you can follow the link given below :-
 <h2> NOTE : I have used Gradio.app instead of Next.js because I do not have any knowledge and experience Next.js.</h2>
 I am definitely planning to learn Next.js in the upcoming weeks. This learning will undoubtedly benefit me in my future career.
 <h3>Important Libraries Used in the Project</h3>
-1. Whisper - Whisper is used for automatic speech recognition (ASR). It is an ASR system developed by OpenAI that converts spoken language into written text
-2. Gradio - Gradio is a library used to quickly create user interfaces for machine learning models. 
-3. Openai - OpenAI is an artificial intelligence research organization that focuses on developing advanced AI technologies and models.
-4. TTS - TTS is a library for advanced text - to - speech generation.
+1. Whisper - Whisper is used for automatic speech recognition (ASR). It is an ASR system developed by OpenAI that converts spoken language into written text<br>
+2. Gradio - Gradio is a library used to quickly create user interfaces for machine learning models. <br>
+3. Openai - OpenAI is an artificial intelligence research organization that focuses on developing advanced AI technologies and models.<br>
+4. TTS - TTS is a library for advanced text - to - speech generation.<br>
 
 **Understanding the Significance of Some Key Code**
 1. model=whisper.load_model("base") - In this we are  trying to load a model named "base" using the "model-whisper" library.
